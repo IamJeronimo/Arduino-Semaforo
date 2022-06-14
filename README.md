@@ -12,4 +12,4 @@ Este programa tiene como objetivo crear un semáforo, encendiendo y apagando los
 ---
 **In this video we can see the behavior of the code:**
 
-   (TinkerCad: Semáforo)[https://drive.google.com/file/d/1IsYy-6-ZwaQqVUOg9uR8laREZhC1_Ait/view?usp=sharing]
+   [TinkerCad: Semáforo](https://drive.google.com/file/d/1IsYy-6-ZwaQqVUOg9uR8laREZhC1_Ait/view?usp=sharing)
