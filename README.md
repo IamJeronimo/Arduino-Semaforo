@@ -7,3 +7,6 @@ This program has the objective of creating a traffic light, turning the respecti
 
 ### ES
 Este programa tiene como objetivo crear un semáforo, encendiendo y apagando los respectivos LED.
+
+---
+---
