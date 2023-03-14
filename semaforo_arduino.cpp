@@ -10,7 +10,7 @@ Manutenção: Lucas Jeronimo da Silva
 
 #################################### HISTORICO ##########################################################   
 
-	v1.0 2021-08-28, Lucas Jeronimo:
+	v0.1 2021-08-28, Lucas Jeronimo:
 		- Versão inicial, piscando leds amarelos e acendendo respectivamente os leds vermelho e verde 
 		das ruas 1 e 2.
 */
